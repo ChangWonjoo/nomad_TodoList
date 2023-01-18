@@ -16,7 +16,7 @@ function getClock(){
 //setInterval(함수, 시간);
 //지정된 시간 마다 지정된 함수를 실행시킨다.
 getClock();
-setInterval(getClock, 1000);
+//setInterval(getClock, 1000);
 
 //setTimeout(함수, 시간);
 // setTimeout(sayHello, 5000);
