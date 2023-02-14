@@ -27,7 +27,7 @@ function handleLoginBtnClick(){
 
 }
 
-//// login button을 <form>의 <input type="submit">으로 바꾸었기 때문에 addEventListener필요 없어짐.
+//// login button을 <form>의 <input type="submit">으로 바꾸었기 때문에 addEventListener를 "click"에서 "submit"을 감지하는 내용으로 변경해야함
 // loginButton.addEventListener("click", handleLoginBtnClick);
 
 
